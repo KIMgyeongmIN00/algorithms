@@ -6,7 +6,7 @@
 
 ---
 
-## Where is problem?
+## What is problem?
 
 [1.js](https://school.programmers.co.kr/learn/courses/30/lessons/142086) /
 [2.js](https://school.programmers.co.kr/learn/courses/30/lessons/134240) /
